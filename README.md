@@ -1,8 +1,8 @@
 
 ```C#
-namespace TNT
+namespace HuuVan123
 {
-    class ngoctienTNT
+    class HuuVan123
     {
         static void Main(string[] args)
         {
