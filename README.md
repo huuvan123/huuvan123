@@ -83,10 +83,6 @@ public class HuuVan {
     </tr>
   </tbody>
 </table>
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
-
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
