@@ -6,9 +6,8 @@ public class HuuVan {
 		int age = 19;
 		String Gender ="Male";
 		String Address ="Bắc Ninh,Việt Nam";
-		String University ="Trường đại học Mỏ-Địa chất-HUMG";
 		String Skills="C/C++, Java,HTML,CSS,JS,VUEJS,REACTJS,MySQL,Spring boot,JPA";
-            String FamousQuetes="Không có giá trị bản thân mày sẽ bị bỏ rơi giữa đời :))";
+            String FamousQuetes=" Giá trị của bạn là gì :))";
             System.out.println(name);
 	}
 }
