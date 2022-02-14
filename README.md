@@ -1,17 +1,4 @@
-```Java
-public class HuuVan {
 
-	public static void main(String[] args) {
-		String name="Lê Hữu Văn ";
-		int age = 19;
-		String Gender ="Male";
-		String Address ="Bắc Ninh,Việt Nam";
-		String Skills="C/C++, Java,HTML,CSS,JS,VUEJS,REACTJS,MySQL,Spring boot,JPA";
-            String FamousQuetes=" Giá trị của bạn là gì :))";
-            System.out.println(name);
-	}
-}
-```
 ## <p align="center">What I use :alien:</p>
 
 <table align="center">
